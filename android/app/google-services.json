@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743870831356",
+    "project_id": "polarh10",
+    "storage_bucket": "polarh10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743870831356:android:2e50da029dcfeaf9089579",
+        "android_client_info": {
+          "package_name": "com.polarh10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743870831356-n3ndpsho39jo5799okr0i94l7ntkqbpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdwJh91pHBqI3LYaThBNe_414MsoPdADA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743870831356-n3ndpsho39jo5799okr0i94l7ntkqbpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
