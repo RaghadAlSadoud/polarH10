@@ -82,7 +82,7 @@ const Dashboard = () => {
   }, [])
 
   useEffect(() => {
-    console.log(heartRate);
+    console.log( heartRate);
     setHeartRateSession(prevState => 
       [...prevState, heartRate]
     )
